@@ -49,7 +49,7 @@ Las cosas importantes:
 - [ ] Agregar `logo` al _config.yml
 - [ ] Agregar `picture` al Site Author en _config.yml
 - [ ] Agregar licencia en el footer.
-- [ ] Agregar links al contacto en el footer
-- [ ] Sacar rss.
+- [x] Agregar links al contacto en el footer
+- [x] Sacar rss.
 - [ ] Sacar botones de compartir en Linkedin y en Reddit.
 - [x] Agregar las paginas linkeadas arriba (navigation)
