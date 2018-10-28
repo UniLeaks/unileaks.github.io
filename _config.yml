@@ -99,6 +99,12 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+   - title: Twitter
+     url: https://twitter.com/3ibiana
+     icon: fab fa-twitter-square
+   - title: GitHub
+     url: https://github.com/UniLeaks/UniLeaks
+     icon: fab fa-github-square
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square
