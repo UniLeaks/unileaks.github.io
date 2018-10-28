@@ -95,4 +95,4 @@ El Artículo 1° de la [Ley de acceso a la información pública Nº 27.275](htt
 
 Sin embargo las fuentes de información que encontramos al alcance se limitan a declaraciones y opiniones personales de funcionarios y personajes políticos.
 
-[Ver más](https://github.com/UniLeaks/UniLeaks/blob/master/sueldos-unrc.ipynb)
+[Ver más](https://github.com/UniLeaks/unileaks.github.io/blob/master/notebooks/recursos_humanos_uni_barplot.ipynb)
