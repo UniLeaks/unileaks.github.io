@@ -22,8 +22,8 @@ baseurl: # the subpath of your site, e.g. "/blog"
 url: https://unileaks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+read_time: true # reading time estimates, e.g. true
+words_per_minute: 200 # 200
 mathjax: # MathJax equations, e.g. true
 google_fonts:
   - name: "Source Sans Pro"
@@ -88,14 +88,14 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Bibiana
   picture:
   email:
-  twitter:
+  twitter: 
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/3ibiana
+      icon: fab fa-twitter-square
 
 # Footer Links
 footer_links:
