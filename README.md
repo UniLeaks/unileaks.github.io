@@ -45,3 +45,8 @@ Las cosas importantes:
 
 - [x] Hacer la task list
 - [ ] Agregar `logo` al _config.yml
+- [ ] Agregar `picture` al Site Author en _config.yml
+- [ ] Agregar licencia en el footer.
+- [ ] Sacar rss.
+- [ ] Sacar botones de compartir en Linkedin y en Reddit.
+- [ ] Agregar las paginas linkeadas arriba (navigation)
