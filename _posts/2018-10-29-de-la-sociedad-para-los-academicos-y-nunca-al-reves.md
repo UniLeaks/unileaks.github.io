@@ -5,11 +5,11 @@ categories:
 tags:
   - investigación
   - biblioteca
+image:
+  path: /images/investigacion.jpg
 ---
 
 Las actividades de investigación de la UNRC, por tratarse de una *universidad pública*, se financian parcial o totalmente con *fondos públicos*, pero ¿de qué forma lo que producimos los académicos genera valor para la universidad o para la sociedad?, ¿lo hace?
-
-![](/images/investigacion.jpg)
 
 Todos los que pertenecemos a la *academia* producimos documentos de investigación en nuestro paso por la universidad: una monografía, tesina, tesis, trabajo final, práctica profesional, experiencia de laboratorio, trabajo de campo. En particular el grupo de estudiantes, doctorales, docentes, que podemos agrupar bajo la denominación de *investigadores*, dedica una cantidad determinada de horas extracurriculares a esta actividad, y en general lo hace de manera **remunerada, becada**.
 

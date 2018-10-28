@@ -41,7 +41,7 @@ Las cosas importantes:
 `_config.yml`: configuración del sitio.  
 ` _posts`: directorio donde van los post. Tienen que comenzar con la  fecha los nombres, como `AÑO-MES-DIA-nombre-del-archivo.md`  
 `_drafts`: Trabajos en progreso (similar a `_posts`, pero solo se muestran cuando se hace el build con `--drafts`. Cuando estén listos se mueven a `_posts`  
-`_site`: El sito generado por jekyll  
+`_site`: El sito generado por jekyll. Github lo genera, no hace falta pushearlo, agregado a gitignore.  
 
 ## Task list
 
