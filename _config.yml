@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 locale: es-AR
 title: "UniLeaks"
 description: "Blog sobre la UNRC."
-baseurl: / # the subpath of your site, e.g. "/blog"
+baseurl: # the subpath of your site, e.g. "/blog"
 url: https://unileaks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
