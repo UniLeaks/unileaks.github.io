@@ -51,5 +51,5 @@ Las cosas importantes:
 - [ ] Agregar licencia en el footer.
 - [x] Agregar links al contacto en el footer
 - [x] Sacar rss.
-- [ ] Sacar botones de compartir en Linkedin y en Reddit.
+- [x] Sacar botones de compartir en Linkedin y en Reddit.
 - [x] Agregar las paginas linkeadas arriba (navigation)
