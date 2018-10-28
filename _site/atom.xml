@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
+<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+<updated>2018-10-27T23:36:43-03:00</updated>
+<id>http://localhost:4000/</id>
+<subtitle>Blog sobre la UNRC.</subtitle>
+<author>
+<name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name>
+</author>
+<entry>
+<title>Sample post</title>
+<link href="http://localhost:4000/sample/sample-post/" rel="alternate" type="text/html" title="Sample post" />
+<published>2010-06-02T00:00:00-03:00</published>
+<updated>2018-02-01T14:54:35-03:00</updated>
+<id>http://localhost:4000/sample/sample-post</id>
+<content type="html" xml:base="http://localhost:4000/sample/sample-post/">&lt;p&gt;Esto es un post de Sample (desde el futuro!)&lt;/p&gt;
+
+&lt;p&gt;Spam spam egg spam&lt;/p&gt;
+</content>
+<category term="sample" />
+<summary>Esto es un post de Sample (desde el futuro!)</summary>
+</entry>
+</feed>

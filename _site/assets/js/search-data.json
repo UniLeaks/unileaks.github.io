@@ -1,0 +1,6 @@
+var store = [{
+        "title": "Sample post",
+        "excerpt":"Esto es un post de Sample (desde el futuro!) Spam spam egg spam ","categories": ["Sample"],
+        "tags": ["sample"],
+        "url": "http://localhost:4000/sample/sample-post/"
+      }]
