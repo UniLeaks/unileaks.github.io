@@ -1,25 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
-<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
-<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2018-10-27T23:36:43-03:00</updated>
-<id>http://localhost:4000/</id>
-<subtitle>Blog sobre la UNRC.</subtitle>
-<author>
-<name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name>
-</author>
-<entry>
-<title>Sample post</title>
-<link href="http://localhost:4000/sample/sample-post/" rel="alternate" type="text/html" title="Sample post" />
-<published>2010-06-02T00:00:00-03:00</published>
-<updated>2018-02-01T14:54:35-03:00</updated>
-<id>http://localhost:4000/sample/sample-post</id>
-<content type="html" xml:base="http://localhost:4000/sample/sample-post/">&lt;p&gt;Esto es un post de Sample (desde el futuro!)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-28T18:26:39-03:00</updated><id>http://localhost:4000/</id><title type="html">UniLeaks</title><subtitle>Blog sobre la UNRC.</subtitle><author><name>Bibiana Rivadeneira</name></author><entry><title type="html">De la sociedad para los académicos y nunca al revés</title><link href="http://localhost:4000/repositorios%20digitales/de-la-sociedad-para-los-academicos-y-nunca-al-reves/" rel="alternate" type="text/html" title="De la sociedad para los académicos y nunca al revés" /><published>2018-11-05T00:00:00-03:00</published><updated>2018-11-05T00:00:00-03:00</updated><id>http://localhost:4000/repositorios%20digitales/de-la-sociedad-para-los-academicos-y-nunca-al-reves</id><content type="html" xml:base="http://localhost:4000/repositorios%20digitales/de-la-sociedad-para-los-academicos-y-nunca-al-reves/">&lt;p&gt;Las actividades de investigación de la UNRC, por tratarse de una &lt;em&gt;universidad pública&lt;/em&gt;, se financian parcial o totalmente con &lt;em&gt;fondos públicos&lt;/em&gt;, pero ¿de qué forma lo que producimos los académicos genera valor para la universidad o para la sociedad?, ¿lo hace?&lt;/p&gt;
 
-&lt;p&gt;Spam spam egg spam&lt;/p&gt;
-</content>
-<category term="sample" />
-<summary>Esto es un post de Sample (desde el futuro!)</summary>
-</entry>
-</feed>
+&lt;p&gt;&lt;img src=&quot;/images/investigacion.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todos los que pertenecemos a la &lt;em&gt;academia&lt;/em&gt; producimos documentos de investigación en nuestro paso por la universidad: una monografía, tesina, tesis, trabajo final, práctica profesional, experiencia de laboratorio, trabajo de campo. En particular el grupo de estudiantes, doctorales, docentes, que podemos agrupar bajo la denominación de &lt;em&gt;investigadores&lt;/em&gt;, dedica una cantidad determinada de horas extracurriculares a esta actividad, y en general lo hace de manera &lt;strong&gt;remunerada, becada&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pensemos en el &lt;em&gt;costo&lt;/em&gt; asociado a nuestras actividades de investigación, según el &lt;a href=&quot;https://www.minhacienda.gob.ar/onp/presupuestos/2018&quot;&gt;Ministerio de hacienda de la Nación&lt;/a&gt; se financia con &lt;strong&gt;$5 millones de pesos&lt;/strong&gt; para el año 2018 a la secretaría de Ciencia y Técnica de la UNRC, &lt;strong&gt;para el académico&lt;/strong&gt;. En esta misma dirección es que se transfieren otros recursos como &lt;em&gt;libros, material didáctico, publicaciones, oficinas, elementos de laboratorio.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;El análisis no se puede realizar por cada investigador ya que LA UNRC NO PUBLICA DATOS SOBRE ELLO en el sitio de &lt;a href=&quot;https://www.unrc.edu.ar/cyt/inst-estadisticas.html&quot;&gt;Ciencia y técnica&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hasta acá tenemos dinero, recursos y otros &lt;em&gt;costos&lt;/em&gt; que podemos pensar en una flecha que apunta al académico, y si pensamos ahora en una flecha que sale del académico: &lt;strong&gt;¿qué transfiere?, ¿hacia dónde apunta?&lt;/strong&gt; En la mayoría de los casos el estudiante produce un documento con el objetivo de aprobar la instancia en la que se encuentra o mantener una beca de investigación.&lt;/p&gt;
+
+&lt;p&gt;En un intento de averiguar &lt;em&gt;cómo podría continuar&lt;/em&gt; el camino que venimos dibujando con flechas de un documento de investigación producido en nuestra universidad, si consultamos la &lt;a href=&quot;http://juanfilloy.bib.unrc.edu.ar/consulta/&quot;&gt;base de datos de la biblioteca Juan Filloy&lt;/a&gt; &lt;em&gt;(que incluye sólo material físico)&lt;/em&gt;, para las categorías &lt;em&gt;Tesis de Post-Grado, Tesis de Grado, Publ. de la UNRC&lt;/em&gt; se indica &lt;strong&gt;Solicitar en el mostrador de prestamos&lt;/strong&gt;, la persona en el mostrador informa el &lt;em&gt;paso siguiente&lt;/em&gt; según los artículos 8°, 17° y 18° de la &lt;a href=&quot;http://juanfilloy.bib.unrc.edu.ar/reg_cap_3.php&quot;&gt;sección 3 del reglamento&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;8º- Según el tipo de material y condición de usuario el préstamo puede ser:
+“Préstamo a domicilio” de los siguientes documentos bibliográficos:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Libros&lt;/li&gt;
+    &lt;li&gt;Publicaciones Periódicas (docentes y graduados habilitados)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;17º- Los Docentes podrán retirar en préstamo a domicilio seis (6) publicaciones periódicas, por un período de treinta (30) días corridos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;18º- Los Graduados y Alumnos de Posgrado podrán solicitar hasta tres (3) libros que no sean de texto y tres (3) publicaciones periódicas, por un período de quince (15) días corridos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Como estudiante de la UNRC, &lt;strong&gt;no se me permite acceder a publicaciones generadas en mi universidad&lt;/strong&gt;, sí a docentes, graduados y alumnos de posgrado, con limitaciones en cuanto a la cantidad y el período de préstamo. De manera que no puedo saber &lt;em&gt;qué investigan&lt;/em&gt; otros estudiantes, no puedo realizar mis propias actividades de investigación con esos documentos, no puedo evaluar &lt;em&gt;qué valor generan&lt;/em&gt; para la comunidad académica o para la sociedad.&lt;/p&gt;
+
+&lt;p&gt;Esto no sólo parece &lt;em&gt;estar mal&lt;/em&gt;, sino que &lt;strong&gt;viola la &lt;a href=&quot;http://repositorios.mincyt.gob.ar/recursos.php&quot;&gt;Ley 26899: Creación de Repositorios Digitales Institucionales de Acceso Abierto, Propios o Compartidos &lt;/a&gt;&lt;/strong&gt; en varios de sus artículos:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Artículo 1°- Los organismos e instituciones públicas (…), y que reciben financiamiento del Estado nacional, deberán desarrollar &lt;strong&gt;repositorios digitales&lt;/strong&gt; institucionales de &lt;strong&gt;acceso abierto&lt;/strong&gt;, propios o compartidos, en los que se depositará la producción científico-tecnológica resultante del trabajo, formación y/o proyectos, financiados total o parcialmente con fondos públicos, de sus &lt;strong&gt;investigadores, tecnólogos, docentes, becarios de posdoctorado y estudiantes de maestría y doctorado&lt;/strong&gt;. (…) abarcará al conjunto de documentos (artículos de revistas, trabajos técnico-científicos, tesis académicas, entre otros), que sean resultado de la realización de actividades de investigación.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Art. 4°- Los repositorios digitales institucionales (…) &lt;strong&gt;garantizarán el libre acceso a sus documentos y datos a través de Internet&lt;/strong&gt; (…).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Art. 5°- Los &lt;strong&gt;investigadores, tecnólogos, docentes, becarios de posdoctorado y estudiantes de maestría y doctorado&lt;/strong&gt; cuya actividad de investigación sea financiada con fondos públicos, &lt;strong&gt;deberán depositar o autorizar expresamente el depósito de una copia de la versión final de su producción&lt;/strong&gt; (…) en los repositorios digitales de acceso abierto de sus instituciones, &lt;strong&gt;en un plazo no mayor a los seis (6) meses desde la fecha de su publicación oficial o de su aprobación&lt;/strong&gt;. (…).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Recordando que la carrera de un estudiante de universidad pública, así como los recursos para investigación si fuera el caso &lt;strong&gt;provienen de fondos públicos&lt;/strong&gt;, y sin caer en un análisis engorroso y probablemente poco certero de la contabilidad de esos fondos, nadie podría negar que resultan de una sumatoria de aportes de ciudadanos que pertenecen o no a la academia.&lt;/p&gt;
+
+&lt;p&gt;La Universidad Nacional de Río Cuarto &lt;strong&gt;no garantiza&lt;/strong&gt; el acceso a los documentos producidos en actividades de investigación &lt;strong&gt;financiadas con fondos públicos&lt;/strong&gt; de manera física, &lt;em&gt;contradiciendo a través del reglamento de la biblioteca Juan Filloy una Ley Nacional&lt;/em&gt;, mientras que no posee un repositorio digital oficial, ni datos oficiales sobre investigadores.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La flecha entonces sale de fondos públicos, en forma de capacitación, recursos, dinero, hacia el académico y sus actividades de investigación y producción de documentos, los que deberán ser aprobados por docentes o entidades. En el caso de la UNRC, el camino culmina ahí, cuando &lt;em&gt;“el profe”&lt;/em&gt; aprueba al alumno o la entidad renueva su beca&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Bibiana Rivadeneira</name></author><category term="investigación" /><category term="biblioteca" /><summary type="html">Las actividades de investigación de la UNRC, por tratarse de una universidad pública, se financian parcial o totalmente con fondos públicos, pero ¿de qué forma lo que producimos los académicos genera valor para la universidad o para la sociedad?, ¿lo hace?</summary></entry><entry><title type="html">Sueldos UNRC: ¿Hay un problema real?</title><link href="http://localhost:4000/presupuesto/sueldos-unrc-hay-un-problema-real/" rel="alternate" type="text/html" title="Sueldos UNRC: ¿Hay un problema real?" /><published>2018-10-14T00:00:00-03:00</published><updated>2018-10-14T00:00:00-03:00</updated><id>http://localhost:4000/presupuesto/sueldos-unrc-hay-un-problema-real</id><content type="html" xml:base="http://localhost:4000/presupuesto/sueldos-unrc-hay-un-problema-real/">&lt;p&gt;Recopilamos datos oficiales sobre sueldos de la UNRC, los analizamos y graficamos, e intentamos conformar una conclusión a partir de un análisis objetivo.&lt;/p&gt;
+
+&lt;p&gt;Mucho se dice sobre el presupuesto universitario de nuestra casa de estudios y la posibilidad de solventar los sueldos con él, de boca de funcionarios y personajes políticos.&lt;/p&gt;
+
+&lt;p&gt;Intentamos comprobar en qué se basa “el conflicto”, y &lt;em&gt;si existe un problema real&lt;/em&gt;. Buscamos datos en fuentes oficiales sobre presupuesto universitario, el monto del mismo que se destina a sueldos, la cantidad de personas y su dedicación en horas semanales para Agosto de este año y calculamos un promedio aproximado de remuneración por mes del personal de la UNRC a modo de aproximación global. Intentamos contrastar la misma con una aproximación más precisa según las grillas salariales docentes y no docentes.&lt;/p&gt;
+
+&lt;p&gt;No fue posible hacer un análisis según el valor de &lt;em&gt;inflación&lt;/em&gt; actual de nuestro país ya que no hay datos históricos de la UNRC disponibles. A pesar de extraer toda la información oficial y pública existente, y con tres diferentes análisis de los mismos, &lt;strong&gt;no pudimos establecer una única y válida conclusión, lo que hace imposible de manera directa formar una opinión personal objetiva&lt;/strong&gt;, con base en datos reales y oficiales, y abstrayéndose de discurso político alguno.&lt;/p&gt;
+
+&lt;h2 id=&quot;cómo-obtuvimos-los-datos&quot;&gt;¿Cómo obtuvimos los datos?&lt;/h2&gt;
+
+&lt;p&gt;El sitio oficial de la UNRC &lt;strong&gt;no publica&lt;/strong&gt; presupuesto para 2018, la última publicación al respecto data de 2016 &lt;em&gt;(&lt;a href=&quot;https://www.unrc.edu.ar/unrc/presupuesto.php&quot;&gt;Presupuesto UNRC&lt;/a&gt;)&lt;/em&gt;. Según informa &lt;a href=&quot;http://www.puntal.com.ar/noticia/UNRC-el-presupuesto-para-2018-crece-25-y-llega-a--1.478-millones-20170920-0017.html&quot;&gt;Puntal&lt;/a&gt;, el monto de &lt;strong&gt;$1.478&lt;/strong&gt; millones para el presupuesto 2018&lt;/p&gt;
+
+&lt;p&gt;Según &lt;a href=&quot;https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=32358&quot;&gt;declaraciones públicas&lt;/a&gt; de autoridades de la UNRC en el sitio oficial: &lt;strong&gt;“&lt;em&gt;Los gastos de funcionamiento, que insumen entre el 10 y el 15 por ciento del presupuesto de la UNRC (el resto es para sueldos) fueron otro de los tópicos.&lt;/em&gt;“&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Obtuvimos de &lt;a href=&quot;https://sisinfo.unrc.edu.ar/estadisticas/estadisticas_sireh.php&quot;&gt;&lt;strong&gt;Recursos humanos UNRC&lt;/strong&gt;&lt;/a&gt; la cantidad de personal para Agosto de este año, clasificados según &lt;em&gt;categoría&lt;/em&gt; y &lt;em&gt;horas semanales&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Confeccionamos una aproximación global de remuneración mensual sin discriminar entre autoridad, docente o no-docente, pero si por cantidad de horas de dedicación del personal de la UNRC.&lt;/p&gt;
+
+&lt;p&gt;Aunque difícil de encontrar, se sumaron al conjunto de datos las &lt;strong&gt;grillas salariales &lt;a href=&quot;http://aduba.org.ar/tabla-salarial/&quot;&gt;docentes&lt;/a&gt; y &lt;a href=&quot;http://fatun.org.ar/wordpress/wp-content/uploads/2018/04/Grilla-Salarial-2018-003.jpg&quot;&gt;no docentes&lt;/a&gt;&lt;/strong&gt;, en las que se discrimina por dedicación/categoría los años de antigüedad y otras particularidades de cada cargo para establecer la remuneración total. Si bien contamos con la cantidad de personas en las categorías docente, no-docente y autoridad, así como las cantidades por dedicación/categoría correspondientemente, no podemos discriminar la cantidad como lo hace la grilla salarial. Ante este faltante de información decidimos la aproximación más sencilla: asignar un sueldo &lt;em&gt;promedio&lt;/em&gt; entre el sueldo más alto y el más bajo para cada dedicación/categoría y cada clasificación del personal de la UNRC.&lt;/p&gt;
+
+&lt;p&gt;Lo siguiente fueron cuentas simples: &lt;em&gt;sumar el total de salario mensual suponiendo un promedio de remuneración según la cantidad de personas por categoría y por 12 meses, obtener el monto correspondiente al 85% del presupuesto 2018, y comparar estos dos. Y paralelo a ello, el mismo análisis suponiendo un máximo de remuneración para cada categoría.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Un factor clave a la hora de hablar de &lt;em&gt;presupuesto&lt;/em&gt;, &lt;em&gt;presupuesto destinado a sueldos&lt;/em&gt;, &lt;em&gt;sueldos&lt;/em&gt; es la INFLACIÓN, término recurrente en cualquier discurso, nota, entrevista sobre el tema y crucial en el análisis en cuestión, el que NO FUE POSIBLE de realizar debido a que la UNRC NO PUBLICA DATOS HISTÓRICOS de presupuesto, de presupuesto destinado a sueldos ni de sueldos.&lt;/p&gt;
+
+&lt;h2 id=&quot;cuál-fue-el-resultado&quot;&gt;¿Cuál fue el resultado?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/rrhh_unrc.png&quot; alt=&quot;Personal UNRC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aproximación global&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Calculando un promedio de pago por hora sin discriminar autoridades de docentes o de no docentes, ni sus antigüedades&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pago_mensual.png&quot; alt=&quot;Remuneración mensual&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;10 horas semanales&lt;/strong&gt;: Arriba de $13 mil
+&lt;em&gt;Cabe destacar que como ayudante de segunda rentada, con 8 horas semanales de dedicación, mi remuneración es de aproximadamente $5 mil, menos de la mitad del promedio calculado&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;20 horas semanales&lt;/strong&gt;: Arriba de &lt;strong&gt;$25mil&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;30 horas semanales&lt;/strong&gt;: Alrededor de &lt;strong&gt;$40 mil&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;40 horas semanales&lt;/strong&gt;: &lt;em&gt;(la gran mayoría del personal de la UNRC)&lt;/em&gt; Superior a &lt;strong&gt;$50 mil&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;APROXIMACIÓN CON GRILLA SALARIAL&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Calculando un promedio entre el máximo de antigüedad y el mínimo&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/balance_promedio.png&quot; alt=&quot;Grilla salarial, promedio&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Total autoridades: $ 38425176.0&lt;/li&gt;
+  &lt;li&gt;Total docentes: $ 820733598.0&lt;/li&gt;
+  &lt;li&gt;Total no docentes: $ 360699192.0&lt;/li&gt;
+  &lt;li&gt;Total sueldos: $ 1219857966.0&lt;/li&gt;
+  &lt;li&gt;Presupuesto sueldos 2018: $ 1256300000.0&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Resto: $ 36442034.0&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Suponiendo que cada persona percibe el máximo de antigüedad&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/balance_maximo.png&quot; alt=&quot;Grilla salarial, maximo&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Total autoridades: $ 49684308&lt;/li&gt;
+  &lt;li&gt;Total docentes: $ 1061224476&lt;/li&gt;
+  &lt;li&gt;Total no docentes: $ 371477796&lt;/li&gt;
+  &lt;li&gt;Total sueldos: $ 1482386580&lt;/li&gt;
+  &lt;li&gt;Presupuesto sueldos 2018: $ 1256300000.0&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Resto: $ -226086580.0&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cómo-interpretar-los-resultados&quot;&gt;¿Cómo interpretar los resultados?&lt;/h2&gt;
+
+&lt;p&gt;He aquí la cuestión… Con base en todos los posibles datos oficiales a disposición, la &lt;em&gt;estimación global&lt;/em&gt;, en la que no se discrimina autoridades de docentes ni de no docentes, sino que se agrupan por cantidad de horas dedicadas semanalmente, el promedio de salario resulta razonable y el más chico de ellos superior al &lt;a href=&quot;http://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/313259/norma.htm&quot;&gt;mínimo vital y móvil vigente&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Agrupando al personal de la UNRC según el tipo de cargo que desarrolla, no pudimos agrupar a su vez, además de tipo de dedicación, antigüedad u otra particularidad que impacta directa y significativamente en su sueldo mensual, por lo que registramos resultados para un caso &lt;em&gt;promedio&lt;/em&gt; y para el &lt;em&gt;más favorable&lt;/em&gt; en el que se supone que todos cobran el máximo. Los resultados son totalmente &lt;strong&gt;opuestos y contradictorios&lt;/strong&gt;. Para el primero se reporta un &lt;em&gt;resto&lt;/em&gt; de 36 millones, mientras que para el segundo un &lt;em&gt;faltante&lt;/em&gt; de 226 millones.&lt;/p&gt;
+
+&lt;h2 id=&quot;y-entónces&quot;&gt;¿Y entónces?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;NO ES POSIBLE&lt;/strong&gt; hacer un análisis objetivo con los datos públicos disponibles. Según las suposiciones elegidas, modificando el parámetro &lt;em&gt;“libre”&lt;/em&gt; que no se encuentra publicado, los resultados oscilan entre: &lt;em&gt;“El presupuesto destinado a sueldos es suficiente para remunerar a los trabajadores de la UNRC y se reporta un resto de 36 millones de pesos”&lt;/em&gt; y &lt;em&gt;“El presupuesto destinado a sueldos no es suficiente para remunerar a los trabajadores de la UNRC, se necesitan 226 millones de pesos extra.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Alguno de los resultados reflejan los sueldos reales del personal de la UNRC?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Es confiable la información disponible?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Cómo hablar de sueldos vs inflación sin datos históricos disponibles?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Cómo formar una opinión propia a partir de un análisis objetivo?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No es descabellado pensar que como miembros de la comunidad universitaria o ciudadanos en general tengamos derecho a conocer, entre otras cosas, el presupuesto de la UNRC, el monto que se destina a sueldos, el sueldo promedio del personal, analizar &lt;em&gt;“el conflicto”&lt;/em&gt; en cuestión y formar una opinión personal al respecto.&lt;/p&gt;
+
+&lt;p&gt;El Artículo 1° de la &lt;a href=&quot;https://www.mininterior.gov.ar/asuntospoliticos/pdf/Ley-27275-Comentada.pdf&quot;&gt;Ley de acceso a la información pública Nº 27.275&lt;/a&gt; establece que &lt;strong&gt;toda la información en poder, custodia o bajo control del sujeto obligado debe ser accesible para todas las personas&lt;/strong&gt;, (…), &lt;strong&gt;debe  publicarse  de  forma completa, con el mayor nivel de desagregación posible y por la mayor cantidad de medios disponibles.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sin embargo las fuentes de información que encontramos al alcance se limitan a declaraciones y opiniones personales de funcionarios y personajes políticos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/UniLeaks/UniLeaks/blob/master/sueldos-unrc.ipynb&quot;&gt;Ver más&lt;/a&gt;&lt;/p&gt;</content><author><name>Bibiana Rivadeneira</name></author><category term="sueldos" /><category term="presupuesto" /><summary type="html">Recopilamos datos oficiales sobre sueldos de la UNRC, los analizamos y graficamos, e intentamos conformar una conclusión a partir de un análisis objetivo.</summary></entry></feed>

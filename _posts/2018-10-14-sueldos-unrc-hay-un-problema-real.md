@@ -9,11 +9,11 @@ tags:
 
 Recopilamos datos oficiales sobre sueldos de la UNRC, los analizamos y graficamos, e intentamos conformar una conclusión a partir de un análisis objetivo.
 
-**Mucho se dice sobre el presupuesto universitario de nuestra casa de estudios y la posibilidad de solventar los sueldos con él, de boca de funcionarios y personajes políticos.**
+Mucho se dice sobre el presupuesto universitario de nuestra casa de estudios y la posibilidad de solventar los sueldos con él, de boca de funcionarios y personajes políticos.
 
-**Intentamos comprobar en qué se basa "el conflicto", y si existe un problema real. Buscamos datos en fuentes oficiales sobre presupuesto universitario, el monto del mismo que se destina a sueldos, la cantidad de personas y su dedicación en horas semanales para Agosto de este año y calculamos un promedio aproximado de remuneración por mes del personal de la UNRC a modo de aproximación global. Intentamos contrastar la misma con una aproximación más precisa según las grillas salariales docentes y no docentes.**
+Intentamos comprobar en qué se basa "el conflicto", y *si existe un problema real*. Buscamos datos en fuentes oficiales sobre presupuesto universitario, el monto del mismo que se destina a sueldos, la cantidad de personas y su dedicación en horas semanales para Agosto de este año y calculamos un promedio aproximado de remuneración por mes del personal de la UNRC a modo de aproximación global. Intentamos contrastar la misma con una aproximación más precisa según las grillas salariales docentes y no docentes.
 
-**NO fue posible hacer un análisis según el valor de *inflación* actual de nuestro país ya que no hay datos históricos de la UNRC disponibles. A pesar de extraer toda la información oficial y pública existente, y con tres diferentes análisis de los mismos, no pudimos establecer una única y válida conclusión, lo que hace IMPOSIBLE de manera directa FORMAR UNA OPINIÓN PERSONAL OBJETIVA, con base en datos reales y oficiales, y abstrayéndose de discurso político alguno.**
+No fue posible hacer un análisis según el valor de *inflación* actual de nuestro país ya que no hay datos históricos de la UNRC disponibles. A pesar de extraer toda la información oficial y pública existente, y con tres diferentes análisis de los mismos, **no pudimos establecer una única y válida conclusión, lo que hace imposible de manera directa formar una opinión personal objetiva**, con base en datos reales y oficiales, y abstrayéndose de discurso político alguno.
 
 ## ¿Cómo obtuvimos los datos?
 
@@ -27,7 +27,7 @@ Confeccionamos una aproximación global de remuneración mensual sin discriminar
 
 Aunque difícil de encontrar, se sumaron al conjunto de datos las **grillas salariales [docentes](http://aduba.org.ar/tabla-salarial/) y [no docentes](http://fatun.org.ar/wordpress/wp-content/uploads/2018/04/Grilla-Salarial-2018-003.jpg)**, en las que se discrimina por dedicación/categoría los años de antigüedad y otras particularidades de cada cargo para establecer la remuneración total. Si bien contamos con la cantidad de personas en las categorías docente, no-docente y autoridad, así como las cantidades por dedicación/categoría correspondientemente, no podemos discriminar la cantidad como lo hace la grilla salarial. Ante este faltante de información decidimos la aproximación más sencilla: asignar un sueldo *promedio* entre el sueldo más alto y el más bajo para cada dedicación/categoría y cada clasificación del personal de la UNRC.
 
-Lo siguiente fueron [cuentas](https://github.com/UniLeaks/UniLeaks/blob/master/sueldos-unrc.ipynb) simples: *sumar el total de salario mensual suponiendo un promedio de remuneración según la cantidad de personas por categoría y por 12 meses, obtener el monto correspondiente al 85% del presupuesto 2018, y comparar estos dos. Y paralelo a ello, el mismo análisis suponiendo un máximo de remuneración para cada categoría.*
+Lo siguiente fueron cuentas simples: *sumar el total de salario mensual suponiendo un promedio de remuneración según la cantidad de personas por categoría y por 12 meses, obtener el monto correspondiente al 85% del presupuesto 2018, y comparar estos dos. Y paralelo a ello, el mismo análisis suponiendo un máximo de remuneración para cada categoría.*
 
 Un factor clave a la hora de hablar de *presupuesto*, *presupuesto destinado a sueldos*, *sueldos* es la INFLACIÓN, término recurrente en cualquier discurso, nota, entrevista sobre el tema y crucial en el análisis en cuestión, el que NO FUE POSIBLE de realizar debido a que la UNRC NO PUBLICA DATOS HISTÓRICOS de presupuesto, de presupuesto destinado a sueldos ni de sueldos.
 
@@ -35,7 +35,7 @@ Un factor clave a la hora de hablar de *presupuesto*, *presupuesto destinado a s
 
 ![Personal UNRC](/images/rrhh_unrc.png)
 
-APROXIMACIÓN GLOBAL
+Aproximación global
 
 *Calculando un promedio de pago por hora sin discriminar autoridades de docentes o de no docentes, ni sus antigüedades*
 
@@ -94,3 +94,5 @@ No es descabellado pensar que como miembros de la comunidad universitaria o ciud
 El Artículo 1° de la [Ley de acceso a la información pública Nº 27.275](https://www.mininterior.gov.ar/asuntospoliticos/pdf/Ley-27275-Comentada.pdf) establece que **toda la información en poder, custodia o bajo control del sujeto obligado debe ser accesible para todas las personas**, (...), **debe  publicarse  de  forma completa, con el mayor nivel de desagregación posible y por la mayor cantidad de medios disponibles.**
 
 Sin embargo las fuentes de información que encontramos al alcance se limitan a declaraciones y opiniones personales de funcionarios y personajes políticos.
+
+[Ver más](https://github.com/UniLeaks/UniLeaks/blob/master/sueldos-unrc.ipynb)
