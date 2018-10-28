@@ -52,4 +52,4 @@ Las cosas importantes:
 - [ ] Agregar links al contacto en el footer
 - [ ] Sacar rss.
 - [ ] Sacar botones de compartir en Linkedin y en Reddit.
-- [ ] Agregar las paginas linkeadas arriba (navigation)
+- [x] Agregar las paginas linkeadas arriba (navigation)
