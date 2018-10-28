@@ -1,6 +1,11 @@
 var store = [{
-        "title": "Sample post",
-        "excerpt":"Esto es un post de Sample (desde el futuro!) Spam spam egg spam ","categories": ["Sample"],
-        "tags": ["sample"],
-        "url": "http://localhost:4000/sample/sample-post/"
+        "title": "Sueldos UNRC: ¿Hay un problema real?",
+        "excerpt":"Recopilamos datos oficiales sobre sueldos de la UNRC, los analizamos y graficamos, e intentamos conformar una conclusión a partir de un análisis objetivo. Mucho se dice sobre el presupuesto universitario de nuestra casa de estudios y la posibilidad de solventar los sueldos con él, de boca de funcionarios y personajes...","categories": ["Presupuesto"],
+        "tags": ["sueldos","presupuesto"],
+        "url": "http://localhost:4000/presupuesto/sueldos-unrc-hay-un-problema-real/"
+      },{
+        "title": "De la sociedad para los académicos y nunca al revés",
+        "excerpt":"Las actividades de investigación de la UNRC, por tratarse de una universidad pública, se financian parcial o totalmente con fondos públicos, pero ¿de qué forma lo que producimos los académicos genera valor para la universidad o para la sociedad?, ¿lo hace? Todos los que pertenecemos a la academia producimos documentos...","categories": ["Repositorios digitales"],
+        "tags": ["investigación","biblioteca"],
+        "url": "http://localhost:4000/repositorios%20digitales/de-la-sociedad-para-los-academicos-y-nunca-al-reves/"
       }]

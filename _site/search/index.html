@@ -16,21 +16,21 @@
   
     
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>UniLeaks | Blog sobre la UNRC.</title>
+<title>Search | UniLeaks</title>
 <meta name="generator" content="Jekyll v3.8.4" />
-<meta property="og:title" content="UniLeaks" />
+<meta property="og:title" content="Search" />
 <meta name="author" content="Bibiana Rivadeneira" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Blog sobre la UNRC." />
 <meta property="og:description" content="Blog sobre la UNRC." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://localhost:4000/search/" />
+<meta property="og:url" content="http://localhost:4000/search/" />
 <meta property="og:site_name" content="UniLeaks" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@" />
 <meta name="twitter:creator" content="@Bibiana Rivadeneira" />
 <script type="application/ld+json">
-{"@type":"WebSite","headline":"UniLeaks","url":"http://localhost:4000/","name":"UniLeaks","author":{"@type":"Person","name":"Bibiana Rivadeneira"},"description":"Blog sobre la UNRC.","@context":"http://schema.org"}</script>
+{"@type":"WebPage","headline":"Search","url":"http://localhost:4000/search/","author":{"@type":"Person","name":"Bibiana Rivadeneira"},"description":"Blog sobre la UNRC.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -56,7 +56,7 @@
 </head>
 
 
-  <body class="layout--home  ">
+  <body class="layout--search  search">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -94,84 +94,18 @@
       <header class="page-header">
         
         
-          <h1 id="page-title" class="page-title"></h1>
+          <h1 id="page-title" class="page-title">Search</h1>
         
       </header>
       <div class="page-content">
         
 
 
-<div class="entries-list">
+<form onsubmit="return false;">
+  <input type="input" id="search" class="search-input" placeholder="Enter your search term..." autofocus>
+</form>
 
-<article class="entry h-entry">
-  <header class="entry-header">
-    <h3 class="entry-title p-name">
-      
-        <a href="/repositorios%20digitales/de-la-sociedad-para-los-academicos-y-nunca-al-reves/" rel="bookmark">De la sociedad para los académicos y nunca al revés
-</a>
-      
-    </h3>
-    
-  </header>
-  
-    <div class="entry-excerpt p-summary">
-      
-        <p>Las actividades de investigación de la UNRC, por tratarse de una <em>universidad pública</em>, se financian parcial o totalmente con <em>fondos públicos</em>, pero ¿de qué forma lo que producimos los académicos genera valor para la universidad o para la sociedad?, ¿lo hace?</p>
-
-
-        <div class="more-link">
-          <a href="/repositorios%20digitales/de-la-sociedad-para-los-academicos-y-nunca-al-reves/">Read More</a>
-        </div>
-      
-    </div>
-  
-  
-    <footer class="entry-meta">
-      
-
-<span class="read-time">4 min read</span>
-
-      <time class="entry-date dt-published" datetime="2018-11-05T00:00:00-03:00">November 5, 2018
-  </time>
-    </footer>
-  
-</article>
-
-
-<article class="entry h-entry">
-  <header class="entry-header">
-    <h3 class="entry-title p-name">
-      
-        <a href="/presupuesto/sueldos-unrc-hay-un-problema-real/" rel="bookmark">Sueldos UNRC: ¿Hay un problema real?
-</a>
-      
-    </h3>
-    
-  </header>
-  
-    <div class="entry-excerpt p-summary">
-      
-        <p>Recopilamos datos oficiales sobre sueldos de la UNRC, los analizamos y graficamos, e intentamos conformar una conclusión a partir de un análisis objetivo.</p>
-
-
-        <div class="more-link">
-          <a href="/presupuesto/sueldos-unrc-hay-un-problema-real/">Read More</a>
-        </div>
-      
-    </div>
-  
-  
-    <footer class="entry-meta">
-      
-
-<span class="read-time">5 min read</span>
-
-      <time class="entry-date dt-published" datetime="2018-10-14T00:00:00-03:00">October 14, 2018
-  </time>
-    </footer>
-  
-</article>
-</div>
+<div id="results"></div>
 
 
         
@@ -196,6 +130,68 @@
   <script src="/assets/js/main.min.js"></script>
   <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 
+<script src="http://localhost:4000/assets/js/lunr/lunr.min.js"></script>
+  <script src="http://localhost:4000/assets/js/search-data.json"></script>
+  <script>
+    var idx = lunr(function () {
+      
+      // the, the normal lunr index initialization
+      this.field('title')
+      this.field('excerpt')
+      this.field('categories')
+      this.field('tags')
+      this.ref('id')
+
+      this.pipeline.remove(lunr.trimmer)
+
+      // add documents to index
+      for (var item in store) {
+        this.add({
+          title: store[item].title,
+          excerpt: store[item].excerpt,
+          categories: store[item].categories,
+          tags: store[item].tags,
+          id: item
+        })
+      }
+    });
+
+    console.log(jQuery.type(idx));
+
+    $(document).ready(function () {
+      $('input#search').on('keyup', function () {
+        var resultdiv = $('#results');
+        var query = $(this).val().toLowerCase();
+        var result =
+          idx.query(function (q) {
+            query.split(lunr.tokenizer.separator).forEach(function (term) {
+              q.term(term, { boost: 100 })
+              if (query.lastIndexOf(" ") != query.length - 1) {
+                q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+              }
+              if (term != "") {
+                q.term(term, { usePipeline: false, editDistance: 1, boost: 1 })
+              }
+            })
+          });
+        resultdiv.empty();
+        resultdiv.prepend('<p class="results__found">' + result.length + ' Result(s) found</p>');
+        for (var item in result) {
+          var ref = result[item].ref;
+          var searchitem =
+            '<article class="entry">' +
+              '<h3 class="entry-title">' +
+                '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
+              '</h3>' +
+              '<div class="entry-excerpt">' +
+                '<p>' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
+              '</div>' +
+            '</article>';
+          resultdiv.append(searchitem);
+        }
+      });
+    });
+  </script>
 
   </body>
 
