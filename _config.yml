@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: es-AR
 title: "UniLeaks"
-description: "Blog sobre la UNRC."
+description: "Blog sobre problemáticas de la UNRC."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://unileaks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
