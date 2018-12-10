@@ -20,7 +20,7 @@ title: "UniLeaks"
 description: "Blog sobre problemáticas de la UNRC."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://unileaks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 200 # 200
@@ -61,7 +61,7 @@ search_full_content: false # can have performance implications for large sites
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - README.md 
+  - README.md
   - Gemfile.lock
 #   - Gemfile
 #   - node_modules
@@ -91,7 +91,7 @@ author:
   name: Bibiana Rivadeneira
   picture:
   email:
-  twitter: 
+  twitter: https://twitter.com/3ibiana
   links:
     - title: Twitter
       url: https://twitter.com/3ibiana
