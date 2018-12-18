@@ -12,7 +12,7 @@ tags:
   - fundación sadosky
 ---
 
-Esta es una nota de *actualización* de ["Crónica de una estafa"](https://unileaks.github.io/notas%20personales/cronica-de-una-estafa/), a **cuatro meses** desde el inicio de las actividades de visitas a escuelas, habiendo transcurrido un mes y medio desde la publicación de la nota, con más de 500 visitas, recién el pasado Viernes se gestiona por escrito el pago de tres de los cuatro titulares elegidos, sin contemplar el trabajo realizado durante los meses de Agosto y Septiembre, y sin garantía alguna de la remuneración, monto, fechas ni modos de cobro.
+Esta es una nota de *actualización* de ["Crónica de una estafa"](https://unileaks.github.io/notas%20personales/cronica-de-una-estafa/), a **cuatro meses** desde el inicio de las actividades de visitas a escuelas, habiendo transcurrido un mes y medio desde la publicación de la nota, con más de 500 visitas, recién el pasado Viernes se solicita por escrito el pago de tres de los cuatro titulares elegidos, sin contemplar el trabajo realizado durante los meses de Agosto y Septiembre, y sin garantía alguna de la remuneración, monto, fechas ni modos de cobro.
 
 La nota ["Crónica de una estafa"](https://unileaks.github.io/notas%20personales/cronica-de-una-estafa/) fue vista **más de 500 veces**, en su mayoría por miembros de la UNRC, sin embargo, ninguno de los involucrados se dio por aludido, ni el secretario de extensión, ni autoridades de mi facultad se comunicaron o acercaron para saber más sobre el tema, discutirlo y mucho menos encontrarle una solución.
 
