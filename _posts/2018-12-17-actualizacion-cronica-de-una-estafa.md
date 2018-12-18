@@ -28,7 +28,7 @@ Y anunciada la **aprobación del pago para cuatro personas** el día **19 de Sep
 
 ![](/images/email_incompatibilidad_ayudantia.png)
 
-**Cuatro meses** después de haber empezado las actividades, de que los tres titulares que conforman el grupo luego mi renuncia llevaran adelante varios talleres de 4 horas de duración cada uno, en diferentes puntos de la ciudad de Río Cuarto y zona, con todos los **gastos** asociados, apenas el pasado Viernes se gestiona por escrito *la gestión del pago de las becas* y se les reconoce el trabajo a partir del mes de **Octubre**.
+**Cuatro meses** después de haber empezado las actividades, de que los tres titulares que conforman el grupo luego mi renuncia llevaran adelante varios talleres de 4 horas de duración cada uno, en diferentes puntos de la ciudad de Río Cuarto y zona, con todos los **gastos** asociados, apenas el pasado Viernes se solicita por escrito *la gestión del pago de las becas* y se les reconoce el trabajo a partir del mes de **Octubre**.
 
 ![](/images/nota-pago-14dic.png)
 
