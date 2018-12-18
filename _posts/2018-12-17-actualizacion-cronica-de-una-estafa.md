@@ -36,7 +36,7 @@ Esta sucesión de hechos improlijos obliga a preguntarse varias cosas:
 
 **¿Qué pasó con el dinero de mi beca luego de mi renuncia?**
 
-**¿Qué pasó con el lugar bacante para un titular?**
+**¿Qué pasó con el lugar vacante para un titular?**
 
 **¿Por qué no es reconocido el trabajo de los chicos desde el día en el que se inició?**
 
