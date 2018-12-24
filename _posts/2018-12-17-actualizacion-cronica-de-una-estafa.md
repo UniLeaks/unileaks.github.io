@@ -1,7 +1,7 @@
 ---
 title: "Actualización de 'Crónica de una estafa'"
 categories:
-  - Notas personales
+  - notas-personales
 tags:
   - estafa unrc
   - ingenieria

@@ -1,7 +1,7 @@
 ---
 title: "Crónica de una estafa"
-categories: 
-  - Notas personales
+categories:
+  - notas-personales
 tags:
   - estafa unrc
   - ingenieria
@@ -67,5 +67,3 @@ La ingeniera encargada de la gestión por parte de la Fac. de Ingeniería se ace
 Actualmente el cargo de titular que quedó libre ante mi renuncia no fue reemplazado, y quienes continuan impartiendo 8 horas de clases semanales **no recibieron remuneración alguna, desconocen la resolución al respecto, el monto que deberían cobrar, los modos de pago.**
 
 En una casa de altos estudios como lo es la Universidad Nacional de Río Cuarto, suceden hechos de fraude como los que aquí expongo, juegan con nuestro tiempo y esfuerzo, subestiman y menosprecian nuestro trabajo, se desenvuelven constantemente alrededor de lo ilegal y por sobre todo de lo inmoral.
-
-

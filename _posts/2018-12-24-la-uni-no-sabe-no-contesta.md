@@ -1,7 +1,7 @@
 ---
 title: "La uni no sabe, *no contesta*"
 categories:
-  - notas personales
+  - notas-personales
 tags:
   - estafa unrc
   - bienestar
