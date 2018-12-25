@@ -83,7 +83,7 @@ Curso materia de tercer año del primer cuatrimestre, hacia Agosto (segundo cuat
 
 Recibo respuesta por escrito con condición, pero haciendo caso omiso al resto de las solicitudes.
 
-[Leer respuesta del secretario académico](/archivo/respuesta_diego_muñoz_condicion_materia.pdf)
+[Leer respuesta del secretario académico](/archivos/respuesta_diego_muñoz_condicion_materia.pdf)
 
 ## Sobre irregularidades en gestión de talleres de programación
 
