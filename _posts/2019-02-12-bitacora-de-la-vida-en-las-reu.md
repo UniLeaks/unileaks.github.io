@@ -188,9 +188,7 @@ Hoy me subí a un 17 y miré hacia las residencias después de *años* de evitar
 
 Lo que padecí en pos de ser una profesional universitaria y lo que pasaron o pasan otros estudiantes no valdrá la pena en la medida en la que quede *"escondido"*, si nadie advierte o nadie quiere advertir, la seguidilla de irregularidades y actos ilegales que allí se concentran.
 
-Nada de eso valdrá la pena si algunos en su ignorancia adjetivan de *"gratuito"* el alojamiento en las REU, que se construyeron con fondos del estado, los mismos que se deberían destinar a su mantenimiento.
-
-Nada va a mejorar si parte de la comunidad académica siente pudor de lo que expongo en [UniLeaks](https://unileaks.github.io/), y cree que al contrario de hacer mis reclamos, debo estar *"agradecida"* con la uni, debo agachar la cabeza, y tal como ellos proceden, contribuir al montículo irreparable de males que alberga la universidad pública.
+Nada de eso valdrá la pena si algunos en su ignorancia adjetivan de *"gratuito"* el alojamiento en las REU, que se construyeron con fondos del estado, los mismos que se deberían destinar a su mantenimiento. Nada va a mejorar si parte de la comunidad académica siente pudor de lo que expongo en [UniLeaks](https://unileaks.github.io/), y cree que al contrario de hacer mis reclamos, debo estar *"agradecida"* con la uni, debo agachar la cabeza, y tal como ellos proceden, contribuir al montículo irreparable de males que alberga la universidad pública.
 
 Si por el contrario revisamos nuestros valores y avistamos la uni con una mirada autocrítica, sólo entonces, podemos acercarnos a cómo describe la universidad pública el discurso institucional y eso es lo que quiero para mi universidad.
 
