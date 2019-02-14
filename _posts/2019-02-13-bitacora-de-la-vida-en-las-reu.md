@@ -27,7 +27,7 @@ Anoche no pude dormir entre tristeza e impotencia, releí muchas veces el [regla
 
 Me comuniqué con mi centro de estudiantes, *en vano*.
 
-Antes de ir a trabajar envié por email una [nota al Sr. Zavala, secretario de bienestar](/archivos/nota_zavala_residencias.pdf) y otra [a Ruiz, el actual rector](/archivos/nota_ruiz_residencias.pdf)
+Antes de ir a trabajar envié por email una [nota al Sr. Zavala](/archivos/nota_zavala_residencias.pdf), secretario de bienestar y otra [al Sr. Ruiz](/archivos/nota_ruiz_residencias.pdf), actual rector de la UNRC.
 
 ## 12 de Junio de 2014
 
@@ -186,11 +186,9 @@ Hoy mismo, al escritorio del señor Rovere, llegó una [nota](/archivos/nota_rov
 
 Hoy me subí a un 17 y miré hacia las residencias después de *años* de evitar pasar por el lugar que me dejó tantos malos momentos. ¿Cuántos chicos habrán podido alojarse en un lugar mejor? ¿Cuántos como "C" *escaparon* de ahí a costa de abandonar una carrera de grado? ¿Cuántas veces pasará por la mente del secretario de bienestar o el rector, quienes llegan cómodamente en sus vehículos, desde el confort de sus casas con agua, gas, conexión a internet, calefaccionadas y seguras, todas estas preguntas?
 
-Lo que padecí en pos de ser una profesional universitaria y lo que pasaron o pasan otros estudiantes no valdrá la pena en la medida en la que quede *"escondido"*, si nadie advierte la seguidilla de irregularidades y actos ilegales que allí se concentran.
+Lo que padecí en pos de ser una profesional universitaria y lo que pasaron o pasan otros estudiantes no valdrá la pena en la medida en la que quede *"escondido"*, si nadie advierte o nadie quiere advertir, la seguidilla de irregularidades y actos ilegales que allí se concentran.
 
-Si algunos en su ignorancia adjetivan de *"gratuito"* el alojamiento en las REU, que se construyeron con fondos del estado, los mismos que se deberían destinar a su mantenimiento.
-
-Si parte de la comunidad académica siente pudor de lo que expongo en [UniLeaks](https://unileaks.github.io/), y cree que al contrario de hacer mis reclamos, debo estar *"agradecida"* con la uni, debo agachar la cabeza, y tal como ellos proceden, contribuir al montículo irreparable de males que alberga la universidad pública.
+Nada de eso valdrá la pena si algunos en su ignorancia adjetivan de *"gratuito"* el alojamiento en las REU, que se construyeron con fondos del estado, los mismos que se deberían destinar a su mantenimiento. Nada va a mejorar si parte de la comunidad académica siente pudor de lo que expongo en [UniLeaks](https://unileaks.github.io/), y cree que al contrario de hacer mis reclamos, debo estar *"agradecida"* con la uni, debo agachar la cabeza, y tal como ellos proceden, contribuir al montículo irreparable de males que alberga la universidad pública.
 
 Si por el contrario revisamos nuestros valores y avistamos la uni con una mirada autocrítica, sólo entonces, podemos acercarnos a cómo describe la universidad pública el discurso institucional y eso es lo que quiero para mi universidad.
 
