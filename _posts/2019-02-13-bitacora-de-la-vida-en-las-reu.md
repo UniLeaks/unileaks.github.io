@@ -157,7 +157,7 @@ Algunos estudiantes de las residencias empezaron hoy sus festejos con una activi
 
 ## 14 de Noviembre de 2014
 
-Hoy llegué de la uni y vi agua saliendo del departamento, desconcertada dado que no llovió en estos días, abrí la puerta rápidamente y me encontré con **desechos cloacales** por todo el departamento, con los que tendré que convivir dado quedurante el fin de semana no se asientan y mucho menos se resuelven reclamos.
+Hoy llegué de la uni y vi agua saliendo del departamento, desconcertada dado que no llovió en estos días, abrí la puerta rápidamente y me encontré con **desechos cloacales** por todo el departamento... con los que tendré que convivir dado quedurante el fin de semana no se asientan y mucho menos se resuelven reclamos.
 
 ## 20 de Diciembre de 2015
 
