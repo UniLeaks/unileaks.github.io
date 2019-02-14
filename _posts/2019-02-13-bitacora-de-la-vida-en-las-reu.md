@@ -59,7 +59,7 @@ El procedimiento de mi llegada se repite para con ella, quién es asignada por "
 
 Los inconvenientes con "R" suceden enseguida, en su mente ella era la propietaria del departamento, y pretendía que "C" y yo acatemos sus órdenes y requerimientos mientras ella hacía uso de un 80% del espacio del departamento (de reducida extensión), se dedicaba a tiempo completo a generar conflictos en la convivencia, mientras sus apuntes, apilados en el comedor del departamento, se llenan de tierra con los días.
 
-Opté por una sencilla estrategia de evación: hacer uso de espacios como biblioteca y comedor en el total del horario de disponibilidad: de 8 a 20hs de Lunes a Viernes.
+Opté por una sencilla estrategia de evasión: hacer uso de espacios como biblioteca y comedor en el total del horario de disponibilidad: de 8 a 20hs de Lunes a Viernes.
 
 ## 26 de Agosto de 2014: El albergue transitorio
 
