@@ -9,7 +9,7 @@ tags:
   - indignación
 ---
 
-A algunos estudiantes de la universidad pública, en particular a los que abandonamos nuestro lugar de origen, la posibilidad de contar con una **beca** nos permite de manera **excluyente** ingresar o continuar con nuestra carrera de grado. Este fue mi caso durante años, habiendo descontinuado las actividades universitarias, y pudiendo reaundarlas con la obtención de un lugar en las **Residencias Estudiantiles Universitarias** de la UNRC. Lo que parecía una oportunidad de permanencia en la universidad, en una suerte de garantía institucional de parte de la UNRC, se convirtió en una seguidilla de horribles momentos dignos de una historia de terror, en un lugar del campus prácticamente abandonado por la secretaría de bienestar.
+A algunos estudiantes de la universidad pública, en particular a los que abandonamos nuestro lugar de origen, la posibilidad de contar con una **beca** nos permite de manera **excluyente** ingresar o continuar con nuestra carrera de grado. Este fue mi caso durante años, habiendo descontinuado las actividades universitarias, y pudiendo reanudarlas con la obtención de un lugar en las **Residencias Estudiantiles Universitarias** de la UNRC. Lo que parecía una oportunidad de permanencia en la universidad, en una suerte de garantía institucional de parte de la UNRC, se convirtió en una seguidilla de horribles momentos dignos de una historia de terror, en un lugar del campus prácticamente abandonado por la secretaría de bienestar.
 
 ## 10 de Marzo de 2014
 
@@ -155,7 +155,7 @@ No debería sentirme especial, una [noticia en telediario](https://www.telediari
 
 Algunos estudiantes de las residencias empezaron hoy sus festejos con una actividad peculiar: robar ropa que colgamos en la terraza, porque no les bastó con dos garrafas.
 
-## 14 de Noviembre de 2014
+## 14 de Noviembre de 2015
 
 Hoy llegué de la uni y vi agua saliendo del departamento, desconcertada dado que no llovió en estos días, abrí la puerta rápidamente y me encontré con **desechos cloacales** por todo el departamento... con los que tendré que convivir dado quedurante el fin de semana no se asientan y mucho menos se resuelven reclamos.
 
