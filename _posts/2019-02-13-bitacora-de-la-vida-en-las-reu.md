@@ -155,6 +155,10 @@ No debería sentirme especial, una [noticia en telediario](https://www.telediari
 
 Algunos estudiantes de las residencias empezaron hoy sus festejos con una actividad peculiar: robar ropa que colgamos en la terraza, porque no les bastó con dos garrafas.
 
+## 14 de Noviembre de 2014
+
+Hoy llegué de la uni y vi agua saliendo del departamento, desconcertada dado que no llovió en estos días, abrí la puerta rápidamente y me encontré con **desechos cloacales** por todo el departamento, con los que tendré que convivir dado quedurante el fin de semana no se asientan y mucho menos se resuelven reclamos.
+
 ## 20 de Diciembre de 2015
 
 Hoy preparé mi vuelta a casa durante el receso de verano con sensación de *supervivencia* y *resistencia* a estas condiciones horribles de vivienda. A diferencia del día en el que llegué al departamento, hoy me siento triste, enferma, enojada, y con incertidumbre de qué parte de la infraestructura se caerá el año que viene o que animal infeccioso vendrá a vivir con nosotras.
